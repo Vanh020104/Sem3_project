@@ -30,5 +30,13 @@ namespace ProSem3.Controllers
         {
             return View();
         }
+        public IActionResult Favourite()
+        {
+            return View();
+        }
+        public IActionResult Category()
+        {
+            return View();
+        }
     }
 }
