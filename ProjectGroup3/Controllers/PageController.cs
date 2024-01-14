@@ -46,5 +46,9 @@ namespace ProSem3.Controllers
         {
             return View();
         }
+        public IActionResult Thankyou()
+        {
+            return View();
+        }
     }
 }
