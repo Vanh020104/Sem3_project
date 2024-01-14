@@ -1,5 +1,4 @@
-﻿﻿
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <base href="/">
@@ -35,8 +34,8 @@
         </div>
         <div class="humberger__menu__cart">
             <ul>
-                <li><a href="/Page/Favourite"><i class="fa fa-heart"></i> <span>1</span></a></li>
-                <li><a href="/Page/"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
+                <li><a href="#"><i class="fa fa-heart"></i> <span>1</span></a></li>
+                <li><a href="#"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
             </ul>
             <div class="header__cart__price">item: <span>$150.00</span></div>
         </div>
@@ -48,26 +47,25 @@
                 <ul>
                     <li><a href="#">Spanis</a></li>
                     <li><a href="#">English</a></li>
+
                 </ul>
-            </div>
-            <div class="header__top__right__auth">
-                <a href="#"><i class="fa fa-user"></i> Login</a>
             </div>
         </div>
         <nav class="humberger__menu__nav mobile-menu">
             <ul>
                 <li class="active"><a href="/Page/Home">Home</a></li>
-                <li><a href="/Page/Category">Shop</a></li>
+                <li><a href="./shop-grid.html">Shop</a></li>
+
                 <li>
                     <a href="#">Pages</a>
                     <ul class="header__menu__dropdown">
                         <li><a href="/Page/Details">Shop Details</a></li>
                         <li><a href="/Page/Cart">Shoping Cart</a></li>
                         <li><a href="/Page/CheckOut">Check Out</a></li>
-                       
+                        <li><a href="./blog-details.html">Blog Details</a></li>
                     </ul>
                 </li>
-                <li><a href="/Page/Bl">Blog</a></li>
+                <li><a href="./blog.html">Blog</a></li>
                 <li><a href="/Page/Contact">Contact</a></li>
             </ul>
         </nav>
@@ -96,6 +94,7 @@
                             <ul>
                                 <li><i class="fa fa-envelope"></i> hello@colorlib.com</li>
                                 <li>Free Shipping for all Order of $99</li>
+
                             </ul>
                         </div>
                     </div>
@@ -117,7 +116,8 @@
                                 </ul>
                             </div>
                             <div class="header__top__right__auth">
-                                <a href="#"><i class="fa fa-user"></i> Login</a>
+                                <a asp-action="Login"><i class="fa fa-user"></i> Login</a>
+                                <a asp-action="Register"><i class="fa fa-user"></i> Register</a>
                             </div>
                         </div>
                     </div>
@@ -135,14 +135,14 @@
                     <nav class="header__menu">
                         <ul>
                             <li class="active"><a href="/Page/Home">Home</a></li>
-                            <li><a href="/Page/Category">Shop</a></li>
+                            <li><a href="./shop-grid.html">Shop</a></li>
                             <li>
                                 <a href="#">Pages</a>
                                 <ul class="header__menu__dropdown">
                                     <li><a href="/Page/Details">Shop Details</a></li>
                                     <li><a href="/Page/Cart">Shoping Cart</a></li>
                                     <li><a href="/Page/CheckOut">Check Out</a></li>
-                           
+                                    <li><a href="#">Blog Details</a></li>
                                 </ul>
                             </li>
                             <li><a href="/Page/Blog">Blog</a></li>
@@ -153,8 +153,8 @@
                 <div class="col-lg-3">
                     <div class="header__cart">
                         <ul>
-                            <li><a href="/Page/Favourite"><i class="fa fa-heart"></i> <span>1</span></a></li>
-                            <li> <a href="/Page/Ca"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
+                            <li><a href="#"><i class="fa fa-heart"></i> <span>1</span></a></li>
+                            <li> <a asp-action="Cart"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
                         </ul>
                         <div class="header__cart__price">item: <span>$150.00</span></div>
                     </div>
