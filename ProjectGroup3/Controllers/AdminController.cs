@@ -19,6 +19,19 @@ namespace ProjectGroup3.Controllers
         {
             return View("OrderManagement/customer");
         }
+        public IActionResult product()
+        {
+            return View("ProductManagement/product");
+        }
+
+        public IActionResult addProduct()
+        {
+            return View("ProductManagement/addProduct");
+        }
+        public IActionResult editProduct()
+        {
+            return View("ProductManagement/editProduct");
+        }
     }
 }
 
