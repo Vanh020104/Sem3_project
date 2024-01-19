@@ -17,7 +17,7 @@ namespace ProjectGroup3.Controllers
         }
         public IActionResult customer() 
         {
-            return View("OrderManagement/customer");
+            return View("CustomerManagement/customer");
         }
         public IActionResult product()
         {

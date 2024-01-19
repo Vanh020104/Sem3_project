@@ -16,12 +16,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\vietanh\Source\Repos\Sem3_project\ProjectGroup3
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/vietanh/Source/Repos/Sem3_project/ProjectGroup3/Views/Admin/OrderManagement/customer.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cT3JkZXJNYW5hZ2VtZW50XGN1c3RvbWVyLmNzaHRtbA==
+[C:/Users/vietanh/Source/Repos/Sem3_project/ProjectGroup3/Views/Admin/CustomerManagement/customer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3VzdG9tZXJNYW5hZ2VtZW50XGN1c3RvbWVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/vietanh/Source/Repos/Sem3_project/ProjectGroup3/Views/Admin/OrderManagement/order.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cT3JkZXJNYW5hZ2VtZW50XG9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vietanh/Source/Repos/Sem3_project/ProjectGroup3/Views/Admin/ProductManagement/addProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdE1hbmFnZW1lbnRcYWRkUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vietanh/Source/Repos/Sem3_project/ProjectGroup3/Views/Admin/ProductManagement/editProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdE1hbmFnZW1lbnRcZWRpdFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vietanh/Source/Repos/Sem3_project/ProjectGroup3/Views/Admin/ProductManagement/product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdE1hbmFnZW1lbnRccHJvZHVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/vietanh/Source/Repos/Sem3_project/ProjectGroup3/Views/Home/Index.cshtml]
