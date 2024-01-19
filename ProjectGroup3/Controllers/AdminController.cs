@@ -15,6 +15,10 @@ namespace ProjectGroup3.Controllers
         {
             return View("OrderManagement/order");
         }
+        public IActionResult customer() 
+        {
+            return View("OrderManagement/customer");
+        }
     }
 }
 

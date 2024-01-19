@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vietanh\\source\\repos\\ProjectGroup3\\ProjectGroup3\\ProjectGroup3.csproj": {}
+    "C:\\Users\\vietanh\\Source\\Repos\\Sem3_project\\ProjectGroup3\\ProjectGroup3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vietanh\\source\\repos\\ProjectGroup3\\ProjectGroup3\\ProjectGroup3.csproj": {
+    "C:\\Users\\vietanh\\Source\\Repos\\Sem3_project\\ProjectGroup3\\ProjectGroup3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vietanh\\source\\repos\\ProjectGroup3\\ProjectGroup3\\ProjectGroup3.csproj",
+        "projectUniqueName": "C:\\Users\\vietanh\\Source\\Repos\\Sem3_project\\ProjectGroup3\\ProjectGroup3.csproj",
         "projectName": "ProjectGroup3",
-        "projectPath": "C:\\Users\\vietanh\\source\\repos\\ProjectGroup3\\ProjectGroup3\\ProjectGroup3.csproj",
+        "projectPath": "C:\\Users\\vietanh\\Source\\Repos\\Sem3_project\\ProjectGroup3\\ProjectGroup3.csproj",
         "packagesPath": "C:\\Users\\vietanh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vietanh\\source\\repos\\ProjectGroup3\\ProjectGroup3\\obj\\",
+        "outputPath": "C:\\Users\\vietanh\\Source\\Repos\\Sem3_project\\ProjectGroup3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vietanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
