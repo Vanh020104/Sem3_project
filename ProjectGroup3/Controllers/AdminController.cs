@@ -11,9 +11,9 @@ namespace ProjectGroup3.Controllers
     public class AdminController : Controller
     {
         // GET: /<controller>/
-        public IActionResult Index()
+        public IActionResult order()
         {
-            return View("Order/Index");
+            return View("OrderManagement/order");
         }
     }
 }
